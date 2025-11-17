@@ -1,0 +1,1 @@
+print("Olá, Thanury! Seu primeiro programa Python está funcionando! 🚀")
