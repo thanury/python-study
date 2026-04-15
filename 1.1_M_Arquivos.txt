@@ -1,0 +1,13 @@
+Arquivo tem 2 partes:
+- Caminho, ex: c:\\users\thanury\downloads\documento.txt
+- Nome, ex: documento.txt
+
+Copiar o caminho no macbook:
+cmd + option + c
+
+Biblioteca
+import os
+
+Como instalar
+python3
+import os
